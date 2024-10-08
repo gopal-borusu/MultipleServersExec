@@ -1,7 +1,7 @@
 # MultipleServersExec
 Bash Script to execute multiple commands in multiple servers at a time
 
-Execution format: ./multiServerExec.sh <Serversfile> <Commandfile>
+Execution format: ./multiServerExec.sh Serversfile Commandfile
 
 Note: 
 1) Servers file contains list of servers, one server in each line.

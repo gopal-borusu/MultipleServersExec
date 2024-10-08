@@ -7,12 +7,13 @@ Note:
 1) Servers file contains list of servers, one server in each line.
 2) Command file contains list of commands to be executed
 
-![image](https://github.com/user-attachments/assets/9fcff21e-c021-4d42-a925-b34955b6bebe)
+# Usage
 
-![image](https://github.com/user-attachments/assets/13de002a-05a6-49c3-83f6-1b606c863370)
+Below file contains list of servernames/serveripaddresses on which we want the script to be executed
+![image](https://github.com/user-attachments/assets/75f72f3b-e112-4bd3-b0e2-d328174bf7a2)
 
-![image](https://github.com/user-attachments/assets/a80b5a94-5abb-4dea-8b70-06287f50c921)
+Below file contains list of commands that needs to be executed
+![image](https://github.com/user-attachments/assets/899b4a4e-0098-4d8c-bd82-8d9ceabdfa91)
 
-![image](https://github.com/user-attachments/assets/ca2a603a-c8df-450a-9aca-b989c53dade0)
-![image](https://github.com/user-attachments/assets/2379c7a1-890f-4cd8-8365-26dd0602b683)
-
+Script need to be executed in given format  ./multiServerExec.sh Serversfile Commandfile
+![image](https://github.com/user-attachments/assets/ff85f936-3d88-467c-b46d-6a1852d56cf4)
